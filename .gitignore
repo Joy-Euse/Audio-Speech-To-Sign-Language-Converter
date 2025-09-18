@@ -1,0 +1,5 @@
+Venv/
+__pycache__/
+*.pyc
+config.bat
+node_modules
